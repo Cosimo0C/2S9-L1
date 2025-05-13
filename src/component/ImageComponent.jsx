@@ -11,3 +11,4 @@ const ImageComponent = function (props) {
     </>
   );
 };
+export default ImageComponent;

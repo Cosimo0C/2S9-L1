@@ -2,7 +2,7 @@ const ButtonComponent = function (props) {
   return (
     <>
       <div className="bottone">
-        <button>{props.tit}</button>
+        <button style={{ backgroundColor: "#FF0000" }}>{props.tit}</button>
       </div>
     </>
   );
